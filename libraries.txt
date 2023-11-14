@@ -1,0 +1,6 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+# See my project https://wokwi.com/projects/380778158735319041
+
+LiquidCrystal
+DHT sensor library
